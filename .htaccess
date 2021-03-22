@@ -1,0 +1,4 @@
+AuthName "Page d'administration"
+AuthType Basic
+AuthUserFile "ftp://exmachinef-esgi1a1@ftp.cluster005.hosting.ovh.net/annuaire/.htpasswd"
+Require valid-user
