@@ -1,4 +1,4 @@
-AuthName "Page d'administration"
+AuthName "Administration"
 AuthType Basic
-AuthUserFile "/home/exmachinef/www/je-code/esgi1/hberleur/annuaire/.htpasswd"
+AuthUserFile "/home/exmachinef/www/je-code/esgi1/hberleur/annuaire/admin/.htpasswd"
 Require valid-user
