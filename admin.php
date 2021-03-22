@@ -5,7 +5,8 @@
 </head>
 
 <body>
-Rien à voir ici...
+
+<?php echo realpath(".htpasswd"); ?>
 
 </body>
 
