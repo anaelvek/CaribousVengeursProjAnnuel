@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Administration - Les Cariboux Vengeurs</title>
+	<title>Administration - Les Caribous Vengeurs</title>
 </head>
 
 <body>

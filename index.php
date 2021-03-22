@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Les Cariboux Vengeurs</title>
+	<title>Les Caribous Vengeurs</title>
 </head>
 	<body>
 		
 		<h1>
-			<center>Les Cariboux Vengeurs</center>
+			<center>Les Caribous Vengeurs</center>
 		</h1>
 			<br><br>
 			<div><a href="https://je-code.com/esgi1/hberleur/annuaire/admin/admin.php">Administration</a></div>		
