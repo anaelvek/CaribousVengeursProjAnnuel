@@ -3,34 +3,37 @@
 <head>
 	<title>Les Cariboux Vengeurs</title>
 </head>
-<body>
-	<h1><center>Les Cariboux Vengeurs</center></h1>
-		<br><br><br><br><br>
+	<body>
 		
-		
-		<div><a href="https://je-code.com/esgi1/adavid28/">Achille DAVID</a></div>
-		
-		<div><a href="https://je-code.com/esgi1/atruffier/CV/">Aurelien TRUFFIER</a></div>
-		
-		<div><a href="">Anaël VEKEMANS [En cours de rédaction]</a></div>
-		
-		<div><a href="https://je-code.com/esgi1/bkhemissi1/">Bahya KHEMISSI</a></div>
-		
-		<div><a href="https://je-code.com/esgi1/eelkihel/">Elias EL KIHEL</a></div>
-		
-		<div><a href="https://je-code.com/esgi1/hberleur/cvHtml/">Hugo BERLEUR</a></div>
-		
-		<div><a href="https://je-code.com/esgi1/hdoom/site/">Hugo DOOM</a></div>
-		
-		<div><a href="https://je-code.com/esgi1/jderache/">Julien DERACHE</a></div>
-		
-		<div><a href="https://je-code.com/esgi1/mboureau2/page/">Matthys BOUREAU</a></div>
-		
-		<div><a href="https://je-code.com/esgi1/qgransart/cours/">Quentin GRANSART</a></div>
-		
-		<div><a href="https://je-code.com/esgi1/tdusautoir/cvphp/">Thibaut DUSAUTOIR</a></div>
-		
-		<div><a href="https://je-code.com/esgi1/tvinchent/">Thibault VINCHENT</a></div>
+		<h1>
 
-</body>
+			<center>Les Cariboux Vengeurs</center>
+
+		</h1>
+			
+			<br><br><br><br><br>			
+			
+			<div><a href="https://je-code.com/esgi1/adavid28/">Achille DAV.</a></div>
+			
+			<div><a href="https://je-code.com/esgi1/atruffier/CV/">Aurelien TRU.</a></div>
+			
+			<div><a href="">Anaël VEK. [En cours de rédaction]</a></div>
+			
+			<div><a href="https://je-code.com/esgi1/bkhemissi1/">Bahya KHE.</a></div>
+			
+			<div><a href="https://je-code.com/esgi1/eelkihel/">Elias ELK.</a></div>
+			
+			<div><a href="https://je-code.com/esgi1/hberleur/cvHtml/">Hugo BER.</a></div>
+			
+			<div><a href="https://je-code.com/esgi1/hdoom/site/">Hugo DOO.</a></div>
+			
+			<div><a href="https://je-code.com/esgi1/jderache/">Julien DER..</a></div>
+			
+			<div><a href="https://je-code.com/esgi1/mboureau2/page/">Matthys BOU.</a></div>
+			
+			<div><a href="https://je-code.com/esgi1/qgransart/cours/">Quentin GRA.</a></div>
+			
+			<div><a href="https://je-code.com/esgi1/tdusautoir/cvphp/">Thibaut DUS.</a></div>
+		
+	</body>
 </html>
