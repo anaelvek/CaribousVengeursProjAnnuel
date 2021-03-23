@@ -9,69 +9,76 @@
 <h1>
 	<center>Les Caribous Vengeurs</center>
 </h1>
-	<br><br><br><br><br>
+	<br><br><br><br>
+<!--
+		<button type = "button" id="bouton"><a href="https://www.je-code.com/esgi1/hberleur/annuaire/index.php">Accueil</a></button>
 
-		<button type = "button"><a href="https://www.je-code.com/esgi1/hberleur/annuaire/index.php">Accueil</a></button>
+		<button type = "button" id="bouton"><a href="https://www.je-code.com/esgi1/hberleur/annuaire/contact.php">Contact</a></button>
 
-		<button type = "button"><a href="https://www.je-code.com/esgi1/hberleur/annuaire/contact.php">Contact</a></button>
+		<button type = "button" id="bouton"><a href="https://www.je-code.com/esgi1/hberleur/annuaire/admin/admin.php">Administration</a></button>
+-->
+		<button type = "button" id="bouton"><a href="index.php">Accueil</a></button>
 
-		<button type = "button"><a href="https://www.je-code.com/esgi1/hberleur/annuaire/admin/admin.php">Administration</a></button>
+		<button type = "button" id="bouton"><a href="contact.php">Contact</a></button>
 
-	<br><br><br><br><br>			
-			
-			<div>
+		<button type = "button" id="bouton"><a href="admin.php">Administration</a></button>
+	<br><br><br>			
+			<center>
+			<div id="liste">
+				
 				<a href="https://je-code.com/esgi1/adavid28/">Achille DAV.
 				</a>
-			</div>
+			<br><br>
 			
-			<div>
+			
 				<a href="https://je-code.com/esgi1/atruffier/CV/">Aurelien TRU.
 				</a>
-			</div>
+			<br><br>
 			
-			<div>
+			
 				<a href="https://www.je-code.com/esgi1/avekemans/">Anaël VEK.</a>
-			</div>
 			
-			<div>
+			<br><br>
+			
 				<a href="https://je-code.com/esgi1/bkhemissi1/cv/">Bahya KHE.
 				</a>
-			</div>
 			
-			<div>
+			<br><br>
+			
 				<a href="https://je-code.com/esgi1/eelkihel/">Elias ELK.
 				</a>
-			</div>
 			
-			<div>
+			<br><br>
+			
 				<a href="https://je-code.com/esgi1/hberleur/cvHtml/">Hugo BER.
 				</a>
-			</div>
 			
-			<div>
+			<br><br>
+			
 				<a href="https://je-code.com/esgi1/hdoom/site/">Hugo DOO.
 				</a>
-			</div>
 			
-			<div>
-				<a href="https://je-code.com/esgi1/jderache/">Julien DER..
+			<br><br>
+			
+				<a href="https://je-code.com/esgi1/jderache/">Julien DER.
 				</a>
-			</div>
 			
-			<div>
+			<br><br>
+			
 				<a href="https://je-code.com/esgi1/mboureau2/page/">Matthys BOU.
 				</a>
-			</div>
 			
-			<div>
+			<br><br>
+			
 				<a href="https://je-code.com/esgi1/qgransart/cours/">Quentin GRA.
 				</a>
-			</div>
+		
+			<br><br>
 			
-			<div>
 				<a href="https://je-code.com/esgi1/tdusautoir/cvphp/">Thibaut DUS.
 				</a>
+			
 			</div>
-		
+		</center>
 	</body>
 </html>
