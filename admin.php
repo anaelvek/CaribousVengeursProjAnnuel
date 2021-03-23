@@ -6,12 +6,17 @@
 
 <body>
  <h1><center>PAGE ADMINISTRATION</center></h1>
+
 	<br><br><br><br><br>
 
- <button type = "button"><a href="index.php">Accueil</a></button>
- <button type = "button"><a href="contact.php">Contact</a></button>
- <button type = "button"><a href="admin.php">Administration</a></button>
+	<button type = "button"><a href="https://www.je-code.com/esgi1/hberleur/annuaire/index.php">Accueil</a></button>
+
+	<button type = "button"><a href="https://www.je-code.com/esgi1/hberleur/annuaire/contact.php">Contact</a></button>
+
+	<button type = "button"><a href="https://www.je-code.com/esgi1/hberleur/annuaire/admin/admin.php">Administration</a></button>
+
  	<br><br><br><br><br>
+ 	
  <p>
  	<center>
  		<form action="#" method="post" id="form" name="form" onsubmit="envoiForm()">

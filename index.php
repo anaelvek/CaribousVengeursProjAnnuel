@@ -9,11 +9,12 @@
 	<center>Les Caribous Vengeurs</center>
 </h1>
 	<br><br><br><br><br>
-		<!--<div><a href="https://je-code.com/esgi1/hberleur/annuaire/admin/admin.php">Administration</a></div> -->
 
-		<button type = "button"><a href="index.php">Accueil</a></button>
+		<button type = "button"><a href="https://www.je-code.com/esgi1/hberleur/annuaire/index.php">Accueil</a></button>
 
-		<button type = "button"><a href="contact.php">Contact</a></button>
+		<button type = "button"><a href="https://www.je-code.com/esgi1/hberleur/annuaire/contact.php">Contact</a></button>
+
+		<button type = "button"><a href="https://www.je-code.com/esgi1/hberleur/annuaire/admin/admin.php">Administration</a></button>
 
 	<br><br><br><br><br>			
 			
@@ -28,11 +29,11 @@
 			</div>
 			
 			<div>
-				<a href="">Anaël VEK. [En cours de rédaction]</a>
+				<a href="https://www.je-code.com/esgi1/avekemans/">Anaël VEK.</a>
 			</div>
 			
 			<div>
-				<a href="https://je-code.com/esgi1/bkhemissi1/">Bahya KHE.
+				<a href="https://je-code.com/esgi1/bkhemissi1/cv/">Bahya KHE.
 				</a>
 			</div>
 			
