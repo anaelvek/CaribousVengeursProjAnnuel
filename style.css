@@ -1,3 +1,8 @@
+html
+{
+	background-attachment: fixed;
+}
+
 h1
 {
 	color:#090000;
@@ -7,14 +12,34 @@ h1
 body
 {
 	font-family:cursive;
-	background-image:url('image/fondbois.jpg');
+	background-image:url('image/fond.jpg');
+	margin: 0;
 	background-repeat:no-repeat;
 
-	position: fixed; 
+	position: relative; 
 	top: 0; 
 	left: 0; 
 
 	min-width: 100%;
 	min-height: 100%;
 	background-size: cover;
+}
+
+a
+{
+	color:#FF7200;
+}
+
+#liste
+{
+		display: block;
+		border: solid #6F4CA0 5px;
+		border-radius:30%;
+		width: 450px;
+		color: white;
+		background-color: #6F4CA0;
+		opacity: 0.8;
+		font-size: 18px;
+		margin: 25px;
+		padding: 25px;
 }
