@@ -1,6 +1,8 @@
-html{
+html
+{
 	background-attachment: fixed;
 }
+
 h1
 {
 	color:#090000;
@@ -22,10 +24,14 @@ body
 	min-height: 100%;
 	background-size: cover;
 }
-a{
+
+a
+{
 	color:#FF7200;
 }
-#liste{
+
+#liste
+{
 		display: block;
 		border: solid #6F4CA0 5px;
 		border-radius:30%;
