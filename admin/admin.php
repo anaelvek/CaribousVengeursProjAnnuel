@@ -2,6 +2,7 @@
 <html>
 <head>
 	<title>Administration - Les Caribous Vengeurs</title>
+	<link rel="stylesheet" href="style.css">
 </head>
 
 <body>
