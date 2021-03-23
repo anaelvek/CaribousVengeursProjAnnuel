@@ -1,3 +1,1 @@
-Login : caribou
-
-Mdp : ************
+GitHub repository for ESGI's yearly project.
