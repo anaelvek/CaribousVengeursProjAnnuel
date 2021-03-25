@@ -9,41 +9,39 @@
 <h1>
 	<center>Les Caribous Vengeurs</center>
 </h1>
+	<br><br><br><br>
+<!--
+		<button type = "button" id="bouton"><a href="https://www.je-code.com/esgi1/hberleur/annuaire/index.php"><b>Accueil</b></a></button>
 
-	<br><br><br><br><br>
+		<button type = "button" id="bouton"><a href="https://www.je-code.com/esgi1/hberleur/annuaire/contact.php"><b>Contact</b></a></button>
 
-		<!--ONLINE-->
-		<button type = "button" id="bouton"><a href="https://www.je-code.com/esgi1/hberleur/annuaire/index.php">Accueil</a></button>
+		<button type = "button" id="bouton"><a href="https://www.je-code.com/esgi1/hberleur/annuaire/admin/admin.php"><b>Administration</b></a></button>
+-->
+		<button type = "button" id="bouton"><a href="index.php"><b>Accueil</b></a></button>
 
-		<button type = "button" id="bouton"><a href="https://www.je-code.com/esgi1/hberleur/annuaire/contact.php">Contact</a></button>
+		<button type = "button" id="bouton"><a href="contact.php"><b>Contact</b></a></button>
 
-		<button type = "button" id="bouton"><a href="https://www.je-code.com/esgi1/hberleur/annuaire/admin/admin.php">Administration</a></button>
-
-		<!--LOCAL
-		<button type = "button" id="bouton"><a href="index.php">Accueil</a></button>
-
-		<button type = "button" id="bouton"><a href="contact.php">Contact</a></button>
-
-		<button type = "button" id="bouton"><a href="admin.php">Administration</a></button>-->
-
+		<button type = "button" id="bouton"><a href="admin.php"><b>Administration</b></a></button>
 	<br><br><br>			
 			<center>
 			<div id="liste">
+				<b>
 				
 				<a href="https://je-code.com/esgi1/adavid28/">Achille DAV.
 				</a>
+
 			<br><br>
 			
 			
 				<a href="https://je-code.com/esgi1/atruffier/CV/">Aurelien TRU.
 				</a>
 			<br><br>
-				
+			
+			
 				<a href="https://www.je-code.com/esgi1/avekemans/">Anaël VEK.</a>
 			
 			<br><br>
 			
-
 				<a href="https://je-code.com/esgi1/bkhemissi1/cv/">Bahya KHE.
 				</a>
 			
@@ -81,7 +79,7 @@
 			
 				<a href="https://je-code.com/esgi1/tdusautoir/cvphp/">Thibaut DUS.
 				</a>
-			
+			</b>
 			</div>
 		</center>
 	</body>
